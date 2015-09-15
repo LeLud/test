@@ -35,4 +35,8 @@ public class Counter {
     public boolean isNotZero() {
         return i != 0;
     }
+
+    public boolean isSomething() {
+        return i == 34874;
+    }
 }
