@@ -39,4 +39,8 @@ public class Counter {
     public boolean isSomething() {
         return i == 34874;
     }
+
+    public boolean isSomethingElse() {
+        return i == 23423;
+    }
 }
