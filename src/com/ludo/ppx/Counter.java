@@ -28,6 +28,10 @@ public class Counter {
         return i == 0;
     }
 
+    public boolean isPositive() {
+        return i > 0;
+    }
+
     public boolean isNotZero() {
         return i != 0;
     }
