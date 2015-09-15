@@ -27,4 +27,8 @@ public class Counter {
     public boolean isDone() {
         return i == 0;
     }
+
+    public boolean isNotZero() {
+        return i != 0;
+    }
 }
