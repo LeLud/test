@@ -43,4 +43,8 @@ public class Counter {
     public boolean isSomethingElse() {
         return i == 23423;
     }
+
+    public boolean isBr3Only() {
+        return i == 33;
+    }
 }
