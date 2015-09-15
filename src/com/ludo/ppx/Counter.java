@@ -1,5 +1,10 @@
 package com.ludo.ppx;
 
+/**
+ * 
+ * @author lferret
+ *
+ */
 public class Counter {
 
     private int i;
