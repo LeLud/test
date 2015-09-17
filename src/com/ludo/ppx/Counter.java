@@ -2,7 +2,7 @@ package com.ludo.ppx;
 
 /**
  * 
- * @author lferret lkjhlkjlkjljlj
+ * @author lferret
  *
  */
 public class Counter {
